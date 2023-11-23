@@ -164,7 +164,7 @@ footer{
 }
 @media (max-width: 950px) {
     footer {
-        height: 35vh;
+        height: 25vh;
         display: flex;
         justify-content: center;
         align-items: center;

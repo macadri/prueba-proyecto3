@@ -145,6 +145,8 @@ main{
     .enlacesprincipales article{
         flex-direction: column;
         position: unset;
+        transform: scale(1.2);
+        margin: 30px;
     }
 }
 article img{
